@@ -12,8 +12,9 @@
   <li>
     Estou cursando Jogos Digitais pela Estácio
   </li>
-
-
+  
+<hr>
+ <br> 
  <div>
    <a href="https://github.com/vitorfontolan">
    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorFontolan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
