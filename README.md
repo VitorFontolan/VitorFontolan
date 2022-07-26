@@ -1,8 +1,16 @@
 ## Prazer, me chamo Vítor 😁
-<hr>
 <ul>
   <li>
- Estou estudando para me tornar um Desenvolvedor Front-End e futuramente me tornar um Full-Stack 📚📚
+    Estou estudando para me tornar um Desenvolvedor Front-End e futuramente me tornar um Full-Stack 📚📚
+  </li>
+  <li>
+    Tenho atualmente 22 anos
+  </li>
+  <li>
+    Sou do Rio de Janeiro
+  </li>
+  <li>
+    Estou cursando Jogos Digitais pela Estácio
   </li>
 
 
