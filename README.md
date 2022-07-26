@@ -1,4 +1,9 @@
-## Prazer, me chamo Vítor
+## Prazer, me chamo Vítor 😁
+<hr>
+<ul>
+  <li>
+ Estou estudando para me tornar um Desenvolvedor Front-End e futuramente me tornar um Full-Stack 📚📚
+  </li>
 
 
  <div>
