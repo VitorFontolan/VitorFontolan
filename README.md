@@ -16,6 +16,8 @@
     </li>
   </ul>
 </div>
+
+<br>
 <hr>
   
 <h2>Minhas Redes Sociais!</h2><br>
@@ -26,8 +28,8 @@
   <a href="https://www.linkedin.com/in/vitorfontolan22" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
-<hr>
 <br>
+<hr>
 
 <div>
    <a href="https://github.com/vitorfontolan">
@@ -35,6 +37,7 @@
    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFontolan&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
+<br>
 <hr>
  
 <h2>Linguagens que estou aprendendo</h2>
@@ -45,6 +48,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
+<br>
 <hr>
 
 <div style="display: inline_block"><br>
