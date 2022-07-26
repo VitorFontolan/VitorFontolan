@@ -1,4 +1,5 @@
 ## Prazer, me chamo Vítor 😁
+<br>
 <ul>
   <li>
     Estou estudando para me tornar um Desenvolvedor Front-End e futuramente me tornar um Full-Stack 📚📚
@@ -12,12 +13,11 @@
   <li>
     Estou cursando Jogos Digitais pela Estácio
   </li>
-  
 <hr>
  <br> 
  <div>
    <a href="https://github.com/vitorfontolan">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorFontolan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=VitorFontolan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFontolan&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
