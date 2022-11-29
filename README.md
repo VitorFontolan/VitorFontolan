@@ -14,6 +14,9 @@
     <li>
       Estou cursando Jogos Digitais pela Estácio
     </li>
+    <li>
+      Estagiando como suporte de TI pela Defensoria Pública do Rio de Janeiro
+    </li>
   </ul>
 </div>
 
