@@ -34,12 +34,12 @@
 <br>
 <hr>
 
-!--><div>
+/*<div>
    <a href="https://github.com/vitorfontolan">
    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=VitorFontolan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFontolan&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-<--
+*/
 
 <br>
 <hr>
