@@ -33,9 +33,6 @@
  
 <br>
 <hr>
-
-<br>
-<hr>
  
 <h2>Linguagens que estou aprendendo:</h2>
 
