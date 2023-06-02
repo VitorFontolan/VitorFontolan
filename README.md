@@ -6,7 +6,7 @@
       Estou estudando para me tornar um Desenvolvedor Front-End e futuramente me tornar um Full-Stack 📚📚
     </li>
     <li>
-      Tenho atualmente 22 anos
+      Tenho atualmente 23 anos
     </li>
     <li>
       Sou do Rio de Janeiro
